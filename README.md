@@ -35,18 +35,18 @@ Clone the repository in vs code
 
 ### 3️⃣ Initialize Terraform
 
+
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/6f890e80-5bd8-49f7-91f0-1cf31927e5c6" />
 ```bash
 terraform init
 ```
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/6f890e80-5bd8-49f7-91f0-1cf31927e5c6" />
 
-
-import 
+### 4️⃣ Terraform import
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/125b37fe-afaf-4f77-8d24-f0ed69aa2e47" />
 
 
-destroy
+### 5️⃣ Terraform destroy
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/8b6b532e-8c26-435e-92ec-60d2ce1ad03f" />
 
