@@ -51,7 +51,7 @@ terraform init
 terraform import module.ec2.aws_instance.imported_ec2 paste-your-instance-id-here
 ```
 
-**When using terraform import, the local name of the resource (e.g., imported_ec2 in 'resource "aws_instance" "imported_ec2"') must precisely match the corresponding local name in the Terraform resource address specified in the import command (e.g., 'module.ec2.aws_instance.imported_ec2'). This ensures Terraform knows exactly which configuration block to associate with the imported cloud resource.**
+**When using terraform import, the local name of the resource (e.g., imported_ec2 in resource "aws_instance" "imported_ec2") must precisely match the corresponding local name in the Terraform resource address specified in the import command (e.g., module.ec2.aws_instance.imported_ec2). This ensures Terraform knows exactly which configuration block to associate with the imported cloud resource.**
 
 ---
 
