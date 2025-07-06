@@ -31,20 +31,27 @@ Clone the repository in vs code
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/6d372b5d-09a3-4b6f-ae4b-aa07433b351e" />
 
-
+---
 
 ### 3️⃣ Initialize Terraform
 
-
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/6f890e80-5bd8-49f7-91f0-1cf31927e5c6" />
+
 ```bash
 terraform init
 ```
+
+---
 
 ### 4️⃣ Terraform import
 
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/125b37fe-afaf-4f77-8d24-f0ed69aa2e47" />
 
+```bash
+terraform import module.ec2.aws_instance.imported_ec2 i-0bc8cd2507c58647b
+```
+
+---
 
 ### 5️⃣ Terraform destroy
 
