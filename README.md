@@ -48,7 +48,7 @@ terraform init
 <img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/9240e365-3b58-44f1-b57a-4a2f3099fc2e" />
 
 ```bash
-terraform import module.ec2.aws_instance.imported_ec2 i-0bc8cd2507c58647b
+terraform import module.ec2.aws_instance.imported_ec2 paste-your-instance-id-here
 ```
 
 ---
