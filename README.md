@@ -38,8 +38,7 @@ Clone the repository in vs code
 ```bash
 terraform init
 ```
-<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/417bcaba-5e92-415e-a660-591200f64410" />
-
+<img width="1600" height="900" alt="Image" src="https://github.com/user-attachments/assets/6f890e80-5bd8-49f7-91f0-1cf31927e5c6" />
 
 
 import 
